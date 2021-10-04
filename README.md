@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello guys!
 
 <!--
 **Septentrion50/Septentrion50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[If you want to know me better](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+## 🔭 What I'm doing
+
+Currently working on a blog centered on tech and infosec, mayby an associated Youtube channel in the future.
+
+I'm also **looking for a job**!
+
+## 📚 My stack
+| image | name |
+|:--:|:--:|
+|<img style="width: 20rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1920px-Ruby_On_Rails_Logo.svg.png" alt="Ruby on rails"/>|Ruby on rails|
+|<img style="width: 20rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React.js"/>|React.js|
+
+## 📫 How to reach me
+
+- [My LinkedIn profile](https://www.linkedin.com/in/erwan-le-corre-7b9ba676/)
