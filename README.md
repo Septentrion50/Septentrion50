@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[If you want to know me better](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
 ## 🔭 What I'm doing
 
 Currently working on a blog centered on tech and infosec, mayby an associated Youtube channel in the future.
+I am also involved in an Open Source project that uses Next.js, Node, GraphQL and Typescript. (link coming soon)
 
-I'm also **looking for a job**!
+**looking for a job**!
 
 ## 📚 My stack
 | image | name |
